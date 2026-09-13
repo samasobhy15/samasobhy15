@@ -24,7 +24,7 @@
 ### 🔧 Technologies
 - **Languages:** Python, SQL
 - **Data Engineering:** ETL, Data Processing, Data Pipelines
-- **Tools:** Git, GitHub, Jupyter Notebook, Pandas, NumPy, Apache Spark
+- **Tools:** GitHub, Jupyter Notebook, Pandas, NumPy, Apache Spark, Kafka, Docker
 
 ### 📊 Focus Areas
 - ✅ Data Engineering
