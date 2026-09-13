@@ -24,10 +24,6 @@
 ### 🔧 Technologies
 - **Languages:** Python, SQL
 - **Data Engineering:** ETL, Data Processing, Data Pipelines
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
-- **Deep Learning & AI:** Neural Networks, CNN, RNN, Transformers
-- **NLP:** Text Processing, Sentiment Analysis, Language Models
-- **Computer Vision:** Image Processing, Object Detection
 - **Tools:** Git, GitHub, Jupyter Notebook, Pandas, NumPy, Apache Spark
 
 ### 📊 Focus Areas
